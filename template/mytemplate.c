@@ -3,7 +3,6 @@
   * @author     bryan (zhubeilife@gmail.com)
   * @date       2018
   * @version    v0.001
-  * @copyright  Dorabot Inc.
   * @brief      This file is general source file of mytemplate.c.
   * @details
   * @see        <a href="http://www.stack.nl/~dimitri/doxygen/manual/commands.html">guide</a>

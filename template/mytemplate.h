@@ -121,7 +121,6 @@ bool return_bool(void);
   * @author     bryan (zhubeilife@gmail.com)
   * @date       2018
   * @version    v0.1
-  * @copyright  Dorabot Inc.
   * @brief      This file is general header file of board_output.c.
   * @details
   */
