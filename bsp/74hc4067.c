@@ -3,7 +3,6 @@
   * @author     bryan (zhubeilife@gmail.com)
   * @date       2018
   * @version    v0.001
-  * @copyright  Dorabot Inc.
   * @brief      This file is source file of 74hc4067.h
   *             16-Channel Analog Multiplexer/Demultiplexer.
   * @details    This is for Loaing Lshape Gripper Version 1.

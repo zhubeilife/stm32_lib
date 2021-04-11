@@ -28,4 +28,4 @@ void check_cool(int ID, char *result)
   ;
 }
 
-/*********************** (C) COPYRIGHT Dorabot Inc. *****END OF FILE**********/
+/**********END OF FILE**********/

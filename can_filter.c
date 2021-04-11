@@ -3,7 +3,6 @@
   * @author     bryan (zhubeilife@gmail.com)
   * @date       2018
   * @version    v0.001
-  * @copyright  Dorabot Inc.
   * @brief      CAN Filter Set Example
   * @details    Get from <a href="https://blog.csdn.net/flydream0/article/details/52317532">blog</a>
   */

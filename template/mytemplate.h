@@ -3,7 +3,6 @@
   * @author     bryan (zhubeilife@gmail.com)
   * @date       2018
   * @version    v0.001
-  * @copyright  Dorabot Inc.
   * @brief      This file is general header file of mytemplate.c.
   * @details
   */
@@ -112,9 +111,6 @@ bool return_bool(void);
 
 #endif /* __MYTEMPLATE_H__ */
 
-/*********************** (C) COPYRIGHT Dorabot Inc. *****END OF FILE**********/
-
-
 /* ========================================================================= */
 /* ================   Device Specific Peripheral Section    ================ */
 /* ========================================================================= */
@@ -158,5 +154,5 @@ bool return_bool(void);
 
 #endif /* __BOARD_OUTPUT_H__ */
 
-/*********************** (C) COPYRIGHT Dorabot Inc. *****END OF FILE**********/
+/**********END OF FILE**********/
 

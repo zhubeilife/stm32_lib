@@ -3,7 +3,6 @@
   * @author     bryan (zhubeilife@gmail.com)
   * @date       2018
   * @version    v0.001
-  * @copyright  Dorabot Inc.
   * @brief      Using bitband to control GPIO example
   * @details
   */
